@@ -1,19 +1,19 @@
 [
   {
     "path": "/",
-    "score": 0.96
+    "score": 0.97
   },
   {
     "path": "/add-two-integers",
-    "score": 0.93
+    "score": 0.94
   },
   {
     "path": "/affiliate-program-confirmation",
-    "score": 0.92
+    "score": 0.95
   },
   {
     "path": "/algorithms-for-coding-interviews",
-    "score": 0.96
+    "score": 0.95
   },
   {
     "path": "/algorithms-interview-refresher",
@@ -21,43 +21,43 @@
   },
   {
     "path": "/all-possible-braces",
-    "score": 0.92
+    "score": 0.82
   },
   {
     "path": "/answers-badge",
-    "score": 0.69
+    "score": 0.7
   },
   {
     "path": "/answers-community-join-now",
-    "score": 0.97
+    "score": 0.96
   },
   {
     "path": "/api-join-us",
-    "score": 0.99
+    "score": 0.98
   },
   {
     "path": "/api-training-teams",
     "score": 0.96
   },
   {
-    "path": "/assessments/c-fundamentals",
-    "score": 0.94
+    "path": "/assessments/ace-the-ap-computer-science-exam-for-high-schoolers",
+    "score": 0.97
   },
   {
-    "path": "/assessments/c-sharp-fundamentals",
-    "score": 0.94
-  },
-  {
-    "path": "/assessments/container-management-using-docker",
-    "score": 0.91
-  },
-  {
-    "path": "/assessments/css-fundamentals",
+    "path": "/assessments/oop-in-cpp-assessment",
     "score": 0.96
   },
   {
-    "path": "/assessments/python-fundamentals-assessment",
-    "score": 0.93
+    "path": "/assessments/operating-system-fundamentals",
+    "score": 0.95
+  },
+  {
+    "path": "/assessments/r-basics",
+    "score": 0.95
+  },
+  {
+    "path": "/assessments/web-development-using-django",
+    "score": 0.97
   },
   {
     "path": "/author-referral-program",
@@ -73,55 +73,55 @@
   },
   {
     "path": "/become-an-educative-author",
-    "score": 0.95
+    "score": 0.94
   },
   {
     "path": "/behavioral-interview-course",
     "score": 0.95
   },
   {
-    "path": "/blog/aspnet-core-tutorial",
-    "score": 0.94
-  },
-  {
-    "path": "/blog/best-front-end-langauages",
-    "score": 0.96
-  },
-  {
-    "path": "/blog/enterprise/5-tips-to-build-a-transformative-learning-program",
-    "score": 0.97
-  },
-  {
-    "path": "/blog/enterprise/candidate-first-hiring-process",
-    "score": 0.96
-  },
-  {
-    "path": "/blog/enterprise/connected-team-covid",
-    "score": 0.96
-  },
-  {
-    "path": "/blog/enterprise/customizable-onboarding",
+    "path": "/blog/assessments-codingchallenges",
     "score": 0.98
   },
   {
-    "path": "/blog/enterprise/health-and-wellness",
-    "score": 0.97
+    "path": "/blog/c-is-a-good-first-language-to-learn",
+    "score": 0.93
   },
   {
-    "path": "/blog/frontend-vs-backend-development",
-    "score": 0.9
+    "path": "/blog/crack-amazon-coding-interview-questions",
+    "score": 0.85
   },
   {
-    "path": "/blog/graph-algorithms-tutorial",
-    "score": 0.89
+    "path": "/blog/enterprise/5-ways-recruiters-can-build",
+    "score": 0.99
   },
   {
-    "path": "/blog/software-architecture-diagramming-and-patterns",
+    "path": "/blog/enterprise/distributed-software-developers",
     "score": 0.95
   },
   {
+    "path": "/blog/enterprise/embrace-nfts",
+    "score": 0.96
+  },
+  {
+    "path": "/blog/enterprise/knock-down-roadblocks",
+    "score": 0.98
+  },
+  {
+    "path": "/blog/enterprise/new-educative-features-rundown",
+    "score": 0.99
+  },
+  {
+    "path": "/blog/java-vs-javascript",
+    "score": 0.92
+  },
+  {
+    "path": "/blog/skill-stacking",
+    "score": 1
+  },
+  {
     "path": "/boggle",
-    "score": 0.94
+    "score": 0.92
   },
   {
     "path": "/call-for-authors",
@@ -129,23 +129,23 @@
   },
   {
     "path": "/careers",
-    "score": 0.98
-  },
-  {
-    "path": "/catalog/c",
-    "score": 0.98
-  },
-  {
-    "path": "/catalog/java",
     "score": 0.97
   },
   {
-    "path": "/catalog/javascript",
-    "score": 0.97
+    "path": "/catalog/c++",
+    "score": 0.96
   },
   {
-    "path": "/catalog/prepare-for-interview",
-    "score": 0.99
+    "path": "/catalog/grow-my-skillset",
+    "score": 0.98
+  },
+  {
+    "path": "/catalog/kubernetes",
+    "score": 0.96
+  },
+  {
+    "path": "/catalog/learn-to-code",
+    "score": 0.98
   },
   {
     "path": "/catalog/react",
@@ -153,7 +153,7 @@
   },
   {
     "path": "/check-if-two-binary-trees-are-identical",
-    "score": 0.92
+    "score": 0.95
   },
   {
     "path": "/clone-directed-graph",
@@ -161,26 +161,26 @@
   },
   {
     "path": "/closest-meeting-point",
-    "score": 0.92
+    "score": 0.91
   },
   {
-    "path": "/cloudlabs/building-a-websocket-based-chat-application-using-api-gateway",
-    "score": 0.98
-  },
-  {
-    "path": "/cloudlabs/getting-started-with-amazon-redshift",
-    "score": 0.96
-  },
-  {
-    "path": "/cloudlabs/getting-started-with-amazon-simple-queue-service-sqs",
+    "path": "/cloudlabs/getting-to-know-amazon-cloudwatch",
     "score": 0.97
   },
   {
-    "path": "/cloudlabs/getting-to-know-aws-lambda",
+    "path": "/cloudlabs/managing-instance-volumes-using-ebs",
+    "score": 0.95
+  },
+  {
+    "path": "/cloudlabs/working-with-aws-s3-and-cross-region-replication",
+    "score": 0.97
+  },
+  {
+    "path": "/cloudlabs/working-with-instances-an-amazon-ec2-walkthrough",
     "score": 0.96
   },
   {
-    "path": "/cloudlabs/monitoring-ec2-instances-using-aws-cloudwatch",
+    "path": "/cloudlabs/working-with-relational-databases-a-beginners-guide-to-aws-rds",
     "score": 0.98
   },
   {
@@ -189,35 +189,35 @@
   },
   {
     "path": "/coin-changing-problem",
-    "score": 0.93
+    "score": 0.92
   },
   {
     "path": "/collection/10370001/4508159000444928",
-    "score": 0.91
+    "score": 0.93
   },
   {
     "path": "/collection/10370001/6588114816466944",
-    "score": 0.86
-  },
-  {
-    "path": "/collection/6630002/4819258780155904",
-    "score": 0.92
-  },
-  {
-    "path": "/collection/6630002/4924114977423360",
     "score": 0.89
   },
   {
-    "path": "/collection/6630002/5942100481015808",
-    "score": 0.97
+    "path": "/collection/6630002/4819258780155904",
+    "score": 0.88
+  },
+  {
+    "path": "/collection/6630002/5199453776510976",
+    "score": 0.94
+  },
+  {
+    "path": "/collection/6630002/5551091176701952",
+    "score": 0.89
   },
   {
     "path": "/collection/6630002/6070327361667072",
-    "score": 0.92
+    "score": 0.93
   },
   {
-    "path": "/collection/6630002/6147872654098432",
-    "score": 0.82
+    "path": "/collection/6630002/6612800209682432",
+    "score": 0.92
   },
   {
     "path": "/collection/6633161687040000/6615787993563136",
@@ -225,7 +225,7 @@
   },
   {
     "path": "/collection/page/10370001/5405225487958016/4705554780127232/assessment",
-    "score": 0.93
+    "score": 0.96
   },
   {
     "path": "/concurrency-for-coding-interviews",
@@ -233,7 +233,7 @@
   },
   {
     "path": "/condensed-interview-layout",
-    "score": 0.61
+    "score": 0.59
   },
   {
     "path": "/connect-all-siblings",
@@ -241,39 +241,39 @@
   },
   {
     "path": "/convert-binary-tree-to-doubly-linked-list",
-    "score": 0.93
-  },
-  {
-    "path": "/copy-linked-list-with-arbitrary-pointer",
-    "score": 0.93
-  },
-  {
-    "path": "/courses/ace-the-advanced-placement-computer-science-exam",
-    "score": 0.94
-  },
-  {
-    "path": "/courses/building-web-applications-with-blazor",
-    "score": 0.97
-  },
-  {
-    "path": "/courses/computing-matrix-algebra-with-r-and-rcpp",
-    "score": 0.97
-  },
-  {
-    "path": "/courses/system-design-interview-doordash",
-    "score": 0.94
-  },
-  {
-    "path": "/courses/web-application-security-everyday-software-engineer",
-    "score": 0.93
-  },
-  {
-    "path": "/cpp-coding-interview",
     "score": 0.92
   },
   {
-    "path": "/create-customized-content",
+    "path": "/copy-linked-list-with-arbitrary-pointer",
+    "score": 0.91
+  },
+  {
+    "path": "/courses/angular-testing-with-jasmine",
+    "score": 0.97
+  },
+  {
+    "path": "/courses/beginners-guide-to-terraform",
+    "score": 0.97
+  },
+  {
+    "path": "/courses/mastering-kotlin-coroutines",
+    "score": 0.94
+  },
+  {
+    "path": "/courses/mastering-unit-testing-principles-with-nunit",
+    "score": 0.97
+  },
+  {
+    "path": "/courses/using-python-transcrypt-transpiler-front-end-coding",
+    "score": 0.94
+  },
+  {
+    "path": "/cpp-coding-interview",
     "score": 0.93
+  },
+  {
+    "path": "/create-customized-content",
+    "score": 0.94
   },
   {
     "path": "/data-structures",
@@ -281,15 +281,15 @@
   },
   {
     "path": "/data-structures-for-coding-interviews",
-    "score": 0.97
+    "score": 0.95
   },
   {
     "path": "/decode-the-coding-interview",
-    "score": 0.98
+    "score": 0.97
   },
   {
     "path": "/delete-node-with-given-key",
-    "score": 0.93
+    "score": 0.92
   },
   {
     "path": "/devquiz",
@@ -297,11 +297,11 @@
   },
   {
     "path": "/doc-workflows",
-    "score": 0.9
+    "score": 0.92
   },
   {
     "path": "/docs-devs-learning",
-    "score": 0.62
+    "score": 0.64
   },
   {
     "path": "/ebook-download",
@@ -309,7 +309,7 @@
   },
   {
     "path": "/edpresso-gift-subscriptions",
-    "score": 0.91
+    "score": 0.93
   },
   {
     "path": "/edpressoplagarism",
@@ -325,19 +325,19 @@
   },
   {
     "path": "/educative-enterprise-onboarding",
-    "score": 1
+    "score": 0.98
   },
   {
     "path": "/educative-teams",
-    "score": 0.69
+    "score": 0.64
   },
   {
     "path": "/educative-technical-writing-workshop-coding-black-females",
-    "score": 0.97
+    "score": 0.96
   },
   {
     "path": "/educative-technical-writing-workshop-landing-page",
-    "score": 0.97
+    "score": 0.96
   },
   {
     "path": "/educative-weekly-newsletter",
@@ -349,55 +349,51 @@
   },
   {
     "path": "/email-confirmation",
-    "score": 0.95
+    "score": 0.94
   },
   {
     "path": "/enterprise-booking-confirmation",
-    "score": 0.94
-  },
-  {
-    "path": "/find-all-palindrome-substrings",
-    "score": 0.91
-  },
-  {
-    "path": "/find-all-subsets",
-    "score": 0.94
-  },
-  {
-    "path": "/find-all-sum-combinations",
-    "score": 0.92
-  },
-  {
-    "path": "/find-low-high-index",
-    "score": 0.94
-  },
-  {
-    "path": "/find-maximum-single-sell-profit",
-    "score": 0.9
-  },
-  {
-    "path": "/find-permutation",
     "score": 0.93
   },
   {
-    "path": "/find-the-missing-number",
+    "path": "/find-all-palindrome-substrings",
+    "score": 0.94
+  },
+  {
+    "path": "/find-all-subsets",
     "score": 0.92
   },
   {
+    "path": "/find-all-sum-combinations",
+    "score": 0.94
+  },
+  {
+    "path": "/find-low-high-index",
+    "score": 0.92
+  },
+  {
+    "path": "/find-maximum-single-sell-profit",
+    "score": 0.92
+  },
+  {
+    "path": "/find-permutation",
+    "score": 0.9
+  },
+  {
+    "path": "/find-the-missing-number",
+    "score": 0.94
+  },
+  {
     "path": "/free-gift",
-    "score": 0.95
+    "score": 0.92
   },
   {
     "path": "/future-proof-your-tech-career",
-    "score": 0.95
+    "score": 0.97
   },
   {
     "path": "/get-educative-teams",
-    "score": 0.67
-  },
-  {
-    "path": "/get-started-with-educative-learn",
-    "score": 0.89
+    "score": 0.63
   },
   {
     "path": "/get-started-with-educative-recruit",
@@ -405,31 +401,31 @@
   },
   {
     "path": "/github-student-course-list",
-    "score": 0.95
+    "score": 0.93
   },
   {
     "path": "/grokking-the-modern-system-design-interview",
-    "score": 0.67
+    "score": 0.66
   },
   {
     "path": "/how-to-write-a-shot",
-    "score": 0.95
+    "score": 0.94
   },
   {
     "path": "/https--sessions-educativelandenco-",
-    "score": 1
+    "score": 0.99
   },
   {
     "path": "/implement-least-recently-used-cache",
-    "score": 0.89
+    "score": 0.92
   },
   {
     "path": "/intersection-point-of-two-linked-lists",
-    "score": 0.91
+    "score": 0.9
   },
   {
     "path": "/is-binary-tree-a-binary-search-tree",
-    "score": 0.9
+    "score": 0.94
   },
   {
     "path": "/is-the-number-valid",
@@ -437,23 +433,23 @@
   },
   {
     "path": "/java-coding-interview",
-    "score": 0.91
-  },
-  {
-    "path": "/js-coding-interview",
-    "score": 0.88
-  },
-  {
-    "path": "/largest-sum-subarray",
     "score": 0.92
   },
   {
+    "path": "/js-coding-interview",
+    "score": 0.91
+  },
+  {
+    "path": "/largest-sum-subarray",
+    "score": 0.94
+  },
+  {
     "path": "/learn-a-new-programming-language-from-scratch",
-    "score": 0.93
+    "score": 0.94
   },
   {
     "path": "/learn-data-science",
-    "score": 0.93
+    "score": 0.95
   },
   {
     "path": "/learn-python",
@@ -461,11 +457,11 @@
   },
   {
     "path": "/learn-to-code",
-    "score": 0.66
+    "score": 0.67
   },
   {
     "path": "/level-order-traversal-binary-tree",
-    "score": 0.93
+    "score": 0.92
   },
   {
     "path": "/live-demo",
@@ -473,7 +469,7 @@
   },
   {
     "path": "/make-columns-and-rows-zero",
-    "score": 0.93
+    "score": 0.94
   },
   {
     "path": "/merge-overlapping-intervals",
@@ -481,7 +477,7 @@
   },
   {
     "path": "/merge-two-sorted-linked-lists",
-    "score": 0.94
+    "score": 0.96
   },
   {
     "path": "/minimum-spanning-tree",
@@ -493,19 +489,19 @@
   },
   {
     "path": "/move-zeros-left",
-    "score": 0.94
+    "score": 0.92
   },
   {
     "path": "/multithreading-and-concurrency",
-    "score": 0.91
+    "score": 0.92
   },
   {
     "path": "/newsletter",
-    "score": 0.98
+    "score": 0.97
   },
   {
     "path": "/nexascale-educative-community-partnership",
-    "score": 0.96
+    "score": 0.97
   },
   {
     "path": "/onboarding",
@@ -513,83 +509,83 @@
   },
   {
     "path": "/oop",
+    "score": 0.95
+  },
+  {
+    "path": "/path/android-development-with-ionic-and-react",
+    "score": 0.91
+  },
+  {
+    "path": "/path/become-a-scala-developer",
+    "score": 0.9
+  },
+  {
+    "path": "/path/become-an-angular-js-developer",
     "score": 0.94
   },
   {
-    "path": "/path/ace-java-coding-interview",
-    "score": 0.95
+    "path": "/path/educative-99-in-javascript-accelerate-your-coding-interview-prep",
+    "score": 0.92
   },
   {
-    "path": "/path/cpp-for-programmers",
-    "score": 0.93
-  },
-  {
-    "path": "/path/educative-99-in-python-accelerate-your-coding-interview-prep",
-    "score": 0.93
-  },
-  {
-    "path": "/path/path-to-become-an-elixir-professional",
-    "score": 0.93
-  },
-  {
-    "path": "/path/react-front-end-developer",
-    "score": 0.95
+    "path": "/path/web-authentication-and-authorization",
+    "score": 0.92
   },
   {
     "path": "/permission",
-    "score": 0.93
+    "score": 0.95
   },
   {
     "path": "/power-of-a-number",
-    "score": 0.96
+    "score": 0.95
   },
   {
     "path": "/prepfortech",
-    "score": 0.98
+    "score": 0.99
   },
   {
     "path": "/privacy",
-    "score": 1
+    "score": 0.98
   },
   {
     "path": "/private-courses",
     "score": 0.99
   },
   {
-    "path": "/projects/build-a-crossword-puzzle-using-vite-and-vitest",
-    "score": 0.96
-  },
-  {
-    "path": "/projects/data-augmentation-for-ml-datasets",
-    "score": 0.96
-  },
-  {
-    "path": "/projects/deploying-a-ruby-on-rails-application-on-aws-using-sam",
-    "score": 0.96
-  },
-  {
-    "path": "/projects/face-detection-using-dlib-and-dnn-in-opencv",
-    "score": 0.94
-  },
-  {
-    "path": "/projects/web-scraping-using-selenium-in-python",
-    "score": 0.97
-  },
-  {
-    "path": "/python-coding-interview",
+    "path": "/projects/create-a-simple-feedback-application-with-svelte",
     "score": 0.91
   },
   {
-    "path": "/recursion-interview",
+    "path": "/projects/maze-solver-using-the-ant-colony-optimization-algorithm",
+    "score": 0.95
+  },
+  {
+    "path": "/projects/optimize-a-quantum-circuit-using-pennylane",
+    "score": 0.92
+  },
+  {
+    "path": "/projects/product-review-and-feedback-system-using-nextjs",
+    "score": 0.96
+  },
+  {
+    "path": "/projects/using-a-pytorch-model-in-javascript-with-onnx",
     "score": 0.93
   },
   {
+    "path": "/python-coding-interview",
+    "score": 0.92
+  },
+  {
+    "path": "/recursion-interview",
+    "score": 0.92
+  },
+  {
     "path": "/referral-program",
-    "score": 0.94
+    "score": 0.96
   },
   {
     "path": "/regular-expression",
-    "score": 0.96
+    "score": 0.92
   },
   {
     "path": "/reverse-words-in-a-sentence",
@@ -597,23 +593,23 @@
   },
   {
     "path": "/schedule-live-demo",
-    "score": 0.89
+    "score": 0.86
   },
   {
     "path": "/search-matrix",
-    "score": 0.96
+    "score": 0.92
   },
   {
     "path": "/search-rotated-array",
-    "score": 0.96
+    "score": 0.94
   },
   {
     "path": "/serialize-deserialize-binary-tree",
-    "score": 0.93
+    "score": 0.94
   },
   {
     "path": "/string-segmentation",
-    "score": 0.94
+    "score": 0.91
   },
   {
     "path": "/student-ambassador",
@@ -621,7 +617,7 @@
   },
   {
     "path": "/success",
-    "score": 0.94
+    "score": 0.95
   },
   {
     "path": "/sum-of-three-values",
@@ -629,11 +625,11 @@
   },
   {
     "path": "/sum-of-two-values",
-    "score": 0.94
+    "score": 0.93
   },
   {
     "path": "/tech-interview-prep-roadmap",
-    "score": 0.89
+    "score": 0.91
   },
   {
     "path": "/technical-writing-workshop-nexascale-educative",
@@ -649,18 +645,18 @@
   },
   {
     "path": "/webinar-giveaway",
-    "score": 0.98
+    "score": 0.97
   },
   {
     "path": "/webinar-giveaway-enterprise",
-    "score": 0.92
+    "score": 0.95
   },
   {
     "path": "/webinar-replay-getting-selected-for-the-interview",
-    "score": 0.71
+    "score": 0.69
   },
   {
     "path": "/weekly-newsletter-confirmation",
-    "score": 0.97
+    "score": 0.99
   }
 ]
